@@ -18,9 +18,6 @@
 
 body {
     background-color: var(--Yellow);
-    display:flex;
-    flex-direction: column;
-    justify-colum:center;
 }
 
 .product-card {

@@ -18,6 +18,11 @@
 
 body {
     background-color: var(--Yellow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vw;   */
 }
 
 .product-card {
@@ -80,6 +85,6 @@ body {
 }
 
 .attribution {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
 }
